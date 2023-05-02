@@ -3,8 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" /></a>
 
 **I'm a computer engineering student, enjoy coding, and love front-end development.**
-- 👩‍💻 I'm currently studying computer engineering at college</li>
-- 🌱 I’m currently learning reactjs</li>
+- 👩‍💻 I’m currently learning reactjs</li>
 - 💬 Ask me about CSS</li>
 - 🔭 I'm looking to work as a front-end developer</li>
 
